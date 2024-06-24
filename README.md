@@ -1,5 +1,7 @@
 ### Flask Application with Language Model Integration
 
+![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/languagemodels_ChatBot/blob/main/Screenshot%202024-06-25%20011755.png)
+
 This repository contains a Flask application that integrates a language model to generate responses based on user input.
 
 ### Setup
